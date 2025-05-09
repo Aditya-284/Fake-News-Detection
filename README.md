@@ -45,7 +45,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/c/fake-news/da
 
 The Logistic Regression model achieves 97% accuracy on the test set, indicating strong performance in detecting fake news based on textual content.
 
-> You can view the model evaluation plots and metrics inside the notebook or in the Code Pics
+> You can view the model evaluation plots and metrics inside the notebook or in the [Code Pics](https://github.com/Aditya-284/Fake-News-Detection/tree/main/Code%20Pics)
 
 ## 🛠️ How to Run
 
