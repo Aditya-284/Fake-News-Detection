@@ -43,9 +43,9 @@ Each row in the training dataset includes:
 You can download the dataset from [Kaggle](https://www.kaggle.com/c/fake-news/data) or use the versions provided in this repository.
 ## 📊 Model Performance
 
-The Logistic Regression model achieves high accuracy on the test set, indicating strong performance in detecting fake news based on textual content.
+The Logistic Regression model achieves 97% accuracy on the test set, indicating strong performance in detecting fake news based on textual content.
 
-> You can view the model evaluation plots and metrics inside the notebook.
+> You can view the model evaluation plots and metrics inside the notebook or in the Code Pics
 
 ## 🛠️ How to Run
 
